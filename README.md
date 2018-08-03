@@ -25,4 +25,4 @@ You can then activate the environment and launch the Jupyter Notebook.
 * [List of Indonesian stopwords](https://www.kaggle.com/oswinrh/indonesian-stoplist)  - *courtesy of [Kaggle](https://www.kaggle.com)*
 * [Sastrawi stemming tool](https://github.com/sastrawi/sastrawi)
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](Indonesian_Twitter_LSA_and_LDA/LICENSE) file for details
