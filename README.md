@@ -23,6 +23,6 @@ You can then activate the environment and launch the Jupyter Notebook.
 ### Data
 * [Twitter corpus](https://github.com/aliakbars/bilp) - *courtesy of [Ali Akbar S.](https://github.com/aliakbars)*
 * [List of Indonesian stopwords](https://www.kaggle.com/oswinrh/indonesian-stoplist)  - *courtesy of [Kaggle](https://www.kaggle.com)*
-* [Sastrawi stemming tool](https://github.com/sastrawi/sastrawi)
+* [Sastrawi stemming tool](https://github.com/sastrawi/sastrawi)LICENSE
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](Indonesian_Twitter_LSA_and_LDA/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/briantfriederich/Indonesian_Twitter_LSA_and_LDA/blob/master/LICENSE) file for details
